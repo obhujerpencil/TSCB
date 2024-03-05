@@ -1,0 +1,157 @@
+{
+  "quiz": {
+    "title": "Cooperative Movement Quiz",
+    "questions": [
+      {
+        "question": "Where did the formal cooperative movement originate?",
+        "options": [
+          "Europe in the 18th century",
+          "Europe in the 19th century",
+          "Asia in the 20th century",
+          "Africa in the 21st century"
+        ],
+        "correctAnswer": "Europe in the 19th century"
+      },
+      {
+        "question": "What was the first known 'mutual aid society' in India, organized in 1889?",
+        "options": [
+          "Anyonya Sahakari Mandali",
+          "Indian Cooperative Union",
+          "Baroda Cooperative Society",
+          "Raiffeisen Credit Union"
+        ],
+        "correctAnswer": "Anyonya Sahakari Mandali"
+      },
+      {
+        "question": "Who was the president of the committee appointed by the Government of India in 1901 to report on cooperative credit societies?",
+        "options": [
+          "Friedrich Wilhelm Raiffeisen",
+          "Sir Edward Law",
+          "Vithal Laxman",
+          "Bhausaheb Kavthekar"
+        ],
+        "correctAnswer": "Sir Edward Law"
+      },
+      {
+        "question": "Which model was recommended by the committee for the establishment of cooperative societies?",
+        "options": [
+          "Marxian model",
+          "Raiffeisen model",
+          "Smithian model",
+          "Keynesian model"
+        ],
+        "correctAnswer": "Raiffeisen model"
+      },
+      {
+        "question": "What legislation was passed based on the committee's report in 1904?",
+        "options": [
+          "Agricultural Development Act",
+          "Cooperative Credit Societies Act",
+          "Industrial Growth Act",
+          "Financial Reform Act"
+        ],
+        "correctAnswer": "Cooperative Credit Societies Act"
+      },
+      {
+        "question": "When was the Department of Cooperation under the Government of India created as a separate entity?",
+        "options": [
+          "1904",
+          "1947",
+          "2021",
+          "2010"
+        ],
+        "correctAnswer": "2021"
+      },
+      {
+        "question": "What is the vision associated with the Ministry of Cooperation created in 2021?",
+        "options": [
+          "Sahkar se Samriddhi (Prosperity through cooperatives)",
+          "Industrial Revolution 4.0",
+          "Economic Liberalization",
+          "Social Equality Movement"
+        ],
+        "correctAnswer": "Sahkar se Samriddhi (Prosperity through cooperatives)"
+      },
+      {
+        "question": "Which sector initially received primary focus in cooperative development in India?",
+        "options": [
+          "Industrial",
+          "Agricultural",
+          "Information Technology",
+          "Healthcare"
+        ],
+        "correctAnswer": "Agricultural"
+      },
+      {
+        "question": "How many cooperatives were reported by the National Cooperative Union of India in 2017?",
+        "options": [
+          "1,543,554",
+          "8,54,355",
+          "5,00,000",
+          "10,000"
+        ],
+        "correctAnswer": "8,54,355"
+      },
+      {
+        "question": "Which global body represents cooperatives at the international level?",
+        "options": [
+          "United Nations",
+          "World Bank",
+          "International Monetary Fund",
+          "International Cooperative Alliance (ICA)"
+        ],
+        "correctAnswer": "International Cooperative Alliance (ICA)"
+      },
+      {
+        "question": "What is the primary objective of the cooperative movement?",
+        "options": [
+          "Profit maximization",
+          "Social welfare and economic empowerment",
+          "Political influence",
+          "Technological advancement"
+        ],
+        "correctAnswer": "Social welfare and economic empowerment"
+      },
+      {
+        "question": "Which type of cooperative was initially given importance due to India's dependence on agriculture?",
+        "options": [
+          "Housing cooperatives",
+          "Consumer cooperatives",
+          "Agriculture-related cooperatives",
+          "Transport cooperatives"
+        ],
+        "correctAnswer": "Agriculture-related cooperatives"
+      },
+      {
+        "question": "What was the total membership reported by the National Cooperative Union of India in 2018?",
+        "options": [
+          "8 million",
+          "29 crore",
+          "50 million",
+          "100 crore"
+        ],
+        "correctAnswer": "29 crore"
+      },
+      {
+        "question": "In which areas have cooperative setups developed, according to the text?",
+        "options": [
+          "Only in agriculture-related sectors",
+          "Only in urban areas",
+          "Housing, employees’ cooperatives, credit agencies, banks, consumer cooperatives, etc.",
+          "Only in developing countries"
+        ],
+        "correctAnswer": "Housing, employees’ cooperatives, credit agencies, banks, consumer cooperatives, etc."
+      },
+      {
+        "question": "What term is used to describe the cooperative movement as stated in the text?",
+        "options": [
+          "Individualistic",
+          "Massive people-based movement",
+          "Government-controlled movement",
+          "Corporate movement"
+        ],
+        "correctAnswer": "Massive people-based movement"
+      }
+    ]
+  }
+}
